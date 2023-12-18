@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 PORT=3000
 
 # Check if this machine has python3 or not
